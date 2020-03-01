@@ -16,7 +16,7 @@ The expansion of the Germanic tribes 750 BC – AD 1 (after the Penguin Atlas of
    New settlements by 500 BC
    New settlements by 250 BC
    New settlements by AD 1
-Celtic stela, found in the village of Pfalzfeld, (Hunsrück), ca. 400 BCE
+Celtic stela, found in the village of Pfalzfeld, (Hunsrück), ca. 400 BCEs
 The Limes Germanicus border of the Roman Empire and modern boundaries.
 The Porta Nigra in Trier, capital of Gallia Belgica, constructed between 186 and 200 AD
 Fresco with Dionysian scenes from a Roman villa in Colonia Claudia Ara Agrippinensium (modern-day Cologne), 3rd century CE, Romano-Germanic Museum
@@ -45,11 +45,7 @@ Frankish Empire
 Main article: Frankish Empire
 The Aula Palatina of Trier, a basilica constructed during the reign of the Roman emperor Constantine I (r. 306–337 AD)
 The Palatine Chapel, Aachen, built during the reign of the Carolingian emperor Charlemagne (r. 800–814 AD)
-Expansion of the Frankish Empire:
-Blue = realm of Pippin III in 758,
-Orange = expansion under Charlemagne until 814,
-Yellow = marches and dependencies,
-Red = Papal States
+
 
 After the fall of the Western Roman Empire in the 5th century, the Franks, like other post-Roman Western Europeans, emerged as a tribal confederacy in the Middle Rhine-Weser region, among the territory soon to be called Austrasia (the "eastern land"), the northeastern portion of the future Kingdom of the Merovingian Franks. As a whole, Austrasia comprised parts of present-day France, Germany, Belgium, Luxembourg and the Netherlands. Unlike the Alamanni to their south in Swabia, they absorbed large swaths of former Roman territory as they spread west into Gaul, beginning in 250. Clovis I of the Merovingian dynasty conquered northern Gaul in 486 and in the Battle of Tolbiac in 496 the Alemanni tribe in Swabia, which eventually became the Duchy of Swabia.
 
@@ -83,6 +79,7 @@ The Holy Roman Empire, maps
     The Holy Roman Empire around the year 1700
 
 Otto the Great
+
 See also: Otto the Great
 Equestrian monument, probably Otto the Great, Magdeburg, around 1240
 
@@ -93,15 +90,9 @@ During the reign of Conrad II's son, Henry III (1039 to 1056), the empire suppor
 Between 1095 and 1291 the various campaigns of the crusades to the Holy Land took place. Knightly religious orders were established, including the Knights Templar, the Knights of St John (Knights Hospitaller), and the Teutonic Order.[60][61]
 
 The term sacrum imperium (Holy Empire) was first used officially by Friedrich I in 1157,[62] but the words Sacrum Romanum Imperium, Holy Roman Empire, were only combined in July 1180 and would never consistently appear on official documents from 1254 onwards.[63]
-Hanseatic League
-Main article: Hanseatic League
-Main trading routes of the Hanseatic League
 
-The Hanseatic League was a commercial and defensive alliance of the merchant guilds of towns and cities in northern and central Europe that dominated marine trade in the Baltic Sea, the North Sea and along the connected navigable rivers during the Late Middle Ages ( 12th to 15th centuries ). Each of the affiliated cities retained the legal system of its sovereign and, with the exception of the Free imperial cities, had only a limited degree of political autonomy.[64] Beginning with an agreement of the cities of Lübeck and Hamburg, guilds cooperated in order to strengthen and combine their economic assets, like securing trading routes and tax privileges, to control prices and better protect and market their local commodities. Important centers of commerce within the empire, such as Cologne on the Rhine river and Bremen on the North Sea joined the union, which resulted in greater diplomatic esteem.[65] Recognized by the various regional princes for the great economic potential, favorable charters for, often exclusive, commercial operations were granted.[66] During its zenith the alliance maintained trading posts and kontors in virtually all cities between London and Edinburgh in the west to Novgorod in the east and Bergen in Norway. By the late 14th century the powerful league enforced its interests with military means, if necessary. This culminated in a war with the sovereign Kingdom of Denmark from 1361 to 1370. Principal city of the Hanseatic League remained Lübeck, where in 1356 the first general diet was held and its official structure was announced. The league declined after 1450 due to a number of factors, such as the 15th-century crisis, the territorial lords' shifting policies towards greater commercial control, the silver crisis and marginalization in the wider Eurasian trade network, among others.[67][68]
-Eastward expansion
-Main article: Ostsiedlung
-Stages of the German eastern expansion, 700–1400
-Marienburg Castle of the Teutonic Knights
+
+The Hanseatic League was a commercial and defensive alliance of the merchant guilds of towns and cities in northern and central Europe that dominated marine trade in the Baltic Sea, the North Sea and along the connected navigable rivers during the Late Middle Ages ( 12th to 15th centuries ). Each of the affiliated cities retained the legal system of its sovereign and, with the exception of the Free imperial cities, had only a limited degree of political autonomy.[64] Beginning with an agreement of the cities of Lübeck and Hamburg, guilds cooperated in order to strengthen and combine their economic assets, like securing trading routes and tax privileges, to control prices and better protect and market their local commodities. Important centers of commerce within the empire, such as Cologne on the Rhine river and Bremen on the North Sea joined the union, which resulted in greater diplomatic esteem.[65] Recognized by the various regional princes for the great economic potential, favorable charters for, often exclusive, commercial operations were granted.[66] During its zenith the alliance maintained trading posts and kontors in virtually all cities between London and Edinburgh in the west to Novgorod in the east and Bergen in Norway. By the late 14th century the powerful league enforced its interests with military means, if necessary. This culminated in a war with the sovereign Kingdom of Denmark from 1361 to 1370. Principal city of the Hanseatic League remained Lübeck, where in 1356 the first general diet was held and its official structure was announced. The league declined after 1450 due to a number of factors, such as the 15th-century crisis, the territorial lords' shifting policies towards greater commercial control, the silver crisis and marginalization in the wider 
 
 The Ostsiedlung (lit. Eastern settlement) is the term for a process of largely uncoordinated immigration and chartering of settlement structures by ethnic Germans into territories, already inhabited by Slavs and Balts east of the Saale and Elbe rivers, such as modern Poland and Silesia and to the south into Bohemia, modern Hungary and Romania during the High Middle Ages from the 11th to the 14th century.[69][70] The primary purpose of the early imperial military campaigns into the lands to the east during the 10th and 11th century, was to punish and subjugate the local heathen tribes. Conquered territories were mostly lost after the troops had retreated, but eventually were incorporated into the empire as marches, fortified borderlands with garrisoned troops in strongholds and castles, who were to ensure military control and enforce the exaction of tributes. Contemporary sources do not support the idea of policies or plans for the organized settlement of civilians.[71]
 
@@ -111,8 +102,7 @@ Main article: State of the Teutonic Order
 In 1230 the Catholic monastic order of the Teutonic Knights launched the Prussian Crusade. The campaign, that was supported by the forces of Polish duke Konrad I of Masovia, initially intended to Christianize the Baltic Old Prussians, succeeded primarily in the conquest of large territories. The order, emboldened by imperial approval, quickly resolved to establish an independent state, without the consent of duke Konrad. Recognizing only papal authority and based on a solid economy, the order steadily expanded the Teutonic state during the following 150 years, engaging in several land disputes with its neighbors. Permanent conflicts with the Kingdom of Poland, the Grand Duchy of Lithuania, and the Novgorod Republic, eventually lead to military defeat and containment by the mid-15th century. The last Grand Master Albert of Brandenburg converted to Lutheranism in 1525 and turned the remaining lands of the order into the secular Duchy of Prussia.[73][74]
 Church and state
 Friedrich Barbarossa was Holy Roman Emperor from 1155 to 1190.
-The imperial prince-electors
-left to right: Archbishop of Cologne, Archbishop of Mainz, Archbishop of Trier, Count Palatine, Duke of Saxony, Margrave of Brandenburg and King of Bohemia (Codex Balduini Trevirorum, c. 1340)
+
 Between 1347 and 1351 the Black Death ravaged Europe and Germany (scene from the Dance of Death by Michael Wolgemut).
 
 Henry V (1086–1125), great-grandson of Conrad II, who had overthrown his father Henry IV became Holy Roman Emperor in 1111. Hoping to gain greater control over the church inside the Empire, Henry V appointed Adalbert of Saarbrücken as the powerful archbishop of Mainz in the same year. Adalbert began to assert the powers of the Church against secular authorities, that is, the Emperor. This precipitated the "Crisis of 1111" as yet another chapter of the long-term Investiture Controversy.[75] In 1137 the prince-electors turned back to the Hohenstaufen family for a candidate, Conrad III. Conrad tried to divest his rival Henry the Proud of his two duchies – Bavaria and Saxony – that lead to war in southern Germany as the empire was divided into two powerful factions. The faction of the Welfs or Guelphs (in Italian) supported the House of Welf of Henry the Proud, which was the ruling dynasty in the Duchy of Bavaria. The rival faction of the Waiblings or Ghibellines (in Italian) pledged allegiance to the Swabian House of Hohenstaufen. During this early period, the Welfs generally maintained ecclesiastical independence under the papacy and political particularism (the focus on ducal interests against the central imperial authority). The Waiblings, on the other hand, championed strict control of the church and a strong central imperial government.[76]
@@ -145,19 +135,6 @@ Total population estimates of the German territories range around 5 to 6 million
 Cologne's central location on the Rhine river placed it at the intersection of the major trade routes between east and west and was the basis of Cologne's growth.[95] The economic structures of medieval and early modern Cologne were characterized by the city's status as a major harbor and transport hub upon the Rhine. It was the seat of an archbishop, under whose patronage the vast Cologne Cathedral was built since 1240. The cathedral houses sacred Christian relics and since it has become a well known pilgrimage destination. By 1288 the city had secured its independence from the archbishop (who relocated to Bonn), and was ruled by its burghers.[96]
 Towns and cities of the Medieval and Early Modern Holy Roman Empire
 
-    Cologne, around 1411
-
-    Munich, Nuremberg Chronicle, 1493
-
-    Regensburg, in 1572
-
-    Nordhausen, 17th century
-
-    Lübeck, 15th century
-
-    Bamberg, Nuremberg Chronicle, 1493
-
-Women
 
 From the early medieval period and continuing through to the 18th century, Germanic law assigned women to a subordinate and dependent position relative to men. Salic (Frankish) law, from which the laws of the German lands would be based, placed women at a disadvantage with regard to property and inheritance rights. Germanic widows required a male guardian to represent them in court. Unlike Anglo-Saxon law or the Visigothic Code, Salic law barred women from royal succession. Social status was based on military and biological roles, a reality demonstrated in rituals associated with newborns, when female infants were given a lesser value than male infants. The use of physical force against wives was condoned until the 18th century in Bavarian law.[97][98]
 
@@ -173,19 +150,6 @@ Around the transition from the 15th to the 16th century, Albrecht Dürer from Nu
 The addition Nationis Germanicæ (of German Nation) to the emperor's title appeared first in the 15th century: in a 1486 law decreed by Frederick III and in 1512 in reference to the Imperial Diet in Cologne by Maximilian I. By then, the emperors had lost their influence in Italy and Burgundy. In 1525, the Heilbronn reform plan – the most advanced document of the German Peasants' War (Deutscher Bauernkrieg) – referred to the Reich as von Teutscher Nation (of German nation).
 influential German speaking authors, artists and scholars of the Late Middle Ages and the Renaissance
 
-    Hildegard von Bingen (1098–1179), Benedictine abbess, philosopher, author, artist and visionary naturalist
-
-    Walther von der Vogelweide (c. 1170–1230), most celebrated Middle High German language Minnesänger
-
-    Johannes Gutenberg (c. 1398–1468), pioneering user of the printing press with movable types
-
-    Albertus Magnus (c. 1193–1280), bishop, philosopher, theologian, Doctor of the Church
-
-    Georgius Agricola (1494–1555), metallurgist and ‘‘Father of mineralogy’’, author of De Re Metallica
-
-    Albrecht Dürer (1471–1528), one of the most influential artists of the Northern Renaissance
-
-    Tilman Riemenschneider (c. 1460–1531), most accomplished sculptor, woodcarver and master in stone from the late Gothic to the Renaissance
 
 Early modern Germany
 Main articles: Early Modern history of Germany and 18th century history of Germany
@@ -207,8 +171,7 @@ Main article: German Peasants' War
 The 1524/25 German Peasants' War, that began in the southwest in Alsace and Swabia and spread further east into Franconia, Thuringia and Austria, was a series of economic and religious revolts of the rural lower classes, encouraged by the rhethoric of various radical religious reformers and Anabaptists against the ruling feudal lords. Although occasionally assisted by war-experienced noblemen like Götz von Berlichingen and Florian Geyer (in Franconia) and the theologian Thomas Müntzer (in Thuringia), the peasant forces lacked military structure, skill, logistics and equipment and as many as 100,000 insurgents were eventually defeated and massacred by the territorial princes.[101]
 
 The Catholic Counter-Reformation, initiated in 1545 at the Council of Trent was spearheaded by the scholarly religious Jesuit order, that was founded just five years prior by several clerics around Ignatius of Loyola. Its intent was to challenge and contain the Protestant Reformation via apologetic and polemical writings and decrees, ecclesiastical reconfiguration, wars and imperial political maneuverings. In 1547 emperor Charles V defeated the Schmalkaldic League, a military alliance of Protestant rulers.[102] The 1555 Peace of Augsburg decreed the recognition of the Lutheran Faith and religious division of the empire. It also stipulated the ruler's right to determine the official confession in his principality (Cuius regio, eius religio). The Counter-Reformation eventually failed to reintegrate the central and northern German Lutheran states. In 1608/1609 the Protestant Union and the Catholic League were formed.
-Thirty Years' War, 1618–1648
-Main article: Thirty Years' War
+
 Population decline in the empire as a consequence of the Thirty Years War
 
 The 1618 to 1648 Thirty Years' War, that took place almost exclusively in the Holy Roman Empire has its origins, that remain widely debated, in the unsolved and recurring conflicts of the Catholic and Protestant factions. The Catholic emperor Ferdinand II attempted to achieve the religious and political unity of the empire, while the opposing Protestant Union forces were determined to defend their religious rights. The religious motive served as the universal justification for the various territorial and foreign princes, who over the course of several stages joined either of the two warring parties in order to gain land and power.[103]
@@ -229,26 +192,8 @@ Luther's German translation of the Bible was also decisive for the German langua
 Science
 
 The German astronomical community played a central role in Europe in the early modern period. Several non-German scientists contributed to the community, such as Copernicus, the instigator of the scientific revolution who lived in Royal Prussia, a dependency of the King of Poland and Tycho Brahe, who worked in Denmark and Bohemia. Astronomer Johannes Kepler from Weil der Stadt was one of the pioneering minds of empirical and rational research. Through rigorous application of the principles of the Scientific method he construed his laws of planetary motion. His ideas influenced contemporary Italian scientist Galileo Galilei and provided fundamental mechanical principles for Isaac Newton's theory of universal gravitation.
-Scientists, scholars and artists of the Early modern period in Germany
 
-    Nikolaus Kopernikus (1473–1543), astronomer and mathematician
 
-    Johannes Kepler (1571–1630), astronomer and mathematician
-
-    Gottfried Wilhelm Leibniz (1646–1716), philosopher and mathematician
-
-    Ehrenfried Walther von Tschirnhaus (1651–1708), mathematician, physicist, physician, philosopher, co-inventor of European porcelain
-
-    Elisabeth of the Palatinate (1618–1680), philosopher, critic of René Descartes' dualistic metaphysics
-
-    Hans Jakob Christoffel von Grimmelshausen (1621/22–1676), author of the novel Simplicius Simplicissimus
-
-    Matthäus Merian (1593–1650), engraver, painter and publisher, member of the Merian family
-
-    Daniel Gabriel Fahrenheit (1686–1736), physicist, inventor, and scientific instrument maker
-
-1648–1815
-Rise of Prussia
 Prussia became a European great power after 1763 and Austria's greatest rival in Germany
 
 In 1640, Frederick William, also called the Great Elector, became ruler of Brandenburg-Prussia and immediately threw off his vassalage under the Kingdom of Poland and reorganized his loose and scattered territories. In 1648 he acquired East Pomerania via the treaty of Territorial Adjustments in the Peace of Westphalia.[111] King Frederick William I, known as the Soldier King, who reigned from 1713 to 1740, established the structures for the highly centralized future Prussian state and raised a standing army, that was to play a central role. In order to address the demographic problem of Prussia's largely rural population of about three million, the immigration and settlement of French Huguenots in urban areas, of whom many were craftsmen, was supported.[111]
@@ -348,7 +293,6 @@ Population
 
 Between 1815 and 1865 the population of the German Confederation (excluding Austria) grew around 60% from 21 million to 34 million.[156] Simultaneously the Demographic Transition took place as the high birth rates and high death rates of the pre-industrial country shifted to low birth and death rates of the fast-growing industrialized urban economic and agricultural system. Increased agricultural productivity secured a steady food supply, as famines and epidemics declined. This allowed people to marry earlier, and have more children. The high birthrate was offset by a very high rate of infant mortality and after 1840, large-scale emigration to the United States. Emigration totaled at 480,000 in the 1840s, 1,200,000 in the 1850s, and at 780,000 in the 1860s. The upper and middle classes first practiced birth control, soon to be universally adopted.[157]
 Industrialization
-The Krupp-Works in Essen, 1864
 
 In 1800, Germany's social structure was poorly suited to entrepreneurship or economic development. Domination by France during the French Revolution (1790s to 1815), however, produced important institutional reforms, that included the abolition of feudal restrictions on the sale of large landed estates, the reduction of the power of the guilds in the cities, and the introduction of a new, more efficient commercial law. The idea, that these reforms were beneficial for Industrialization has been contested.[158] Nevertheless, traditionalism remained strong in the many small principalities. Until 1850, the guilds, the landed aristocracy, the churches and the government bureaucracies maintained many rules and restrictions that held entrepreneurship in low esteem and given little opportunity to develop. From the 1830s and 1840s, Prussia, Saxony and other states introduced agriculture based on sugar beets, turnips and potatoes, that yielded higher crops, which enabled a surplus rural population to move to industrial areas.
 
@@ -382,31 +326,7 @@ Science and culture during the 18th and 19th century
 19th-century artists and intellectuals were greatly inspired by the ideas of the French Revolution and the great poets and writers Johann Wolfgang von Goethe (1749–1832), Gotthold Ephraim Lessing (1729–1781) and Friedrich Schiller (1759–1805). The Sturm und Drang romantic movement was embraced and emotion was given free expression in reaction to the perceived rationalism of the Enlightenment. Philosophical principles and methods were revolutionized by Immanuel Kant's paradigm shift. Ludwig van Beethoven (1770–1827) was the most influential composer of the period from classical to Romantic music. His use of tonal architecture in such a way as to allow significant expansion of musical forms and structures was immediately recognized as bringing a new dimension to music. His later piano music and string quartets, especially, showed the way to a completely unexplored musical universe, and influenced Franz Schubert (1797–1828) and Robert Schumann (1810–1856). In opera, a new Romantic atmosphere combining supernatural terror and melodramatic plot in a folkloric context was first successfully achieved by Carl Maria von Weber (1786–1826) and perfected by Richard Wagner (1813–1883) in his Ring Cycle. The Brothers Grimm (1785–1863 & 1786–1859) collected folk stories into the popular Grimm's Fairy Tales and are ranked among the founding fathers of German studies, who initiated the work on the Deutsches Wörterbuch ("The German Dictionary"), the most comprehensive work on the German language.[166]
 
 University professors developed international reputations, especially in the humanities led by history and philology, which brought a new historical perspective to the study of political history, theology, philosophy, language, and literature. With Georg Wilhelm Friedrich Hegel (1770–1831), Friedrich Wilhelm Joseph Schelling (1775–1854), Arthur Schopenhauer (1788–1860), Friedrich Nietzsche (1844–1900), Max Weber (1864–1920), Karl Marx (1818–1883) and Friedrich Engels (1820–1895) in philosophy, Friedrich Schleiermacher (1768–1834) in theology and Leopold von Ranke (1795–1886) in history became famous. The University of Berlin, founded in 1810, became the world's leading university. Von Ranke, for example, professionalized history and set the world standard for historiography. By the 1830s mathematics, physics, chemistry, and biology had emerged with world class science, led by Alexander von Humboldt (1769–1859) in natural science and Carl Friedrich Gauss (1777–1855) in mathematics. Young intellectuals often turned to politics, but their support for the failed revolution of 1848 forced many into exile.[167]
-18th- and 19th-century German artists, scientists and philosophers
 
-    Immanuel Kant (1724–1804)
-
-    Gotthold Ephraim Lessing (1729–1781)
-
-    Johann Wolfgang von Goethe (1749–1832)
-
-    Joseph von Fraunhofer (1787–1826), physicist and optical lens manufacturer (1787–1826)
-
-    Friedrich Schiller (1759–1805)
-
-    Alexander von Humboldt (1769–1859)
-
-    Ludwig van Beethoven (1770–1827)
-
-    Friedrich Hegel (1770–1831)
-
-    Carl Friedrich Gauss (1777–1855)
-
-    Brothers Grimm (1785–1863 & 1786–1859)
-
-    Werner von Siemens (1816–1892)
-
-    Karl Marx (1818–1883)
 
 Religion
 Main article: Prussian Union of churches
@@ -449,10 +369,7 @@ Main article: North German Confederation
 
 After the Seven Weeks War the German Confederation was dissolved and the North German Federation (German Norddeutscher Bund) was established under the leadership of Prussia. Austria was excluded and its immense influence over Germany finally came to an end. The North German Federation was a transitional organisation that existed from 1867 to 1871, between the dissolution of the German Confederation and the founding of the German Empire.[180]
 German Empire, 1871–1918
-Main article: German Empire
-Overview
-Flag of the North German Confederation (1866–71) and the German Empire (1871–1918).
-Imperial Germany 1871–1918
+
 
 Chancellor Otto von Bismarck determined the political course of the German Empire until 1890. He fostered alliances in Europe to contain France on the one hand and aspired to consolidate Germany's influence in Europe on the other. His principal domestic policies focused on the suppression of socialism and the reduction of the strong influence of the Roman Catholic Church on its adherents. He issued a series of anti-socialist laws in accord with a set of social laws, that included universal health care, pension plans and other social security programs. His Kulturkampf policies were vehemently resisted by Catholics, who organized political opposition in the Center (Zentrum) Party. German industrial and economic power had grown to match Britain by 1900.
 
@@ -511,13 +428,13 @@ Chancellor Bismarck's imperial foreign policy basically aimed at security and th
 In 1879, Germany formed the Dual Alliance with Austria-Hungary, an agreement of mutual military assistance in the case of an attack from Russia, which was not satisfied with the agreement of the Congress of Berlin. The establishment of the Dual Alliance led Russia to take a more conciliatory stance and in 1887, the so-called Reinsurance Treaty was signed between Germany and Russia. In it, the two powers agreed on mutual military support in the case that France attacked Germany or an Austrian attack on Russia. Russia turned its attention eastward to Asia and remained largely inactive in European politics for the next 25 years. In 1882, Italy, seeking supporters for its interests in North Africa against France's colonial policy, joined the Dual Alliance, which became the Triple Alliance. In return for German and Austrian support, Italy committed itself to assisting Germany in the case of a French attack.[210]
 
 Bismarck had always argued that the acquisition of overseas colonies was impractical and the burden of administration and maintenance would outweigh the benefits. Eventually, Bismarck gave way, and a number of colonies were established in Africa (Togo, the Cameroons, German South-West Africa, and German East Africa) and in Oceania (German New Guinea, the Bismarck Archipelago, and the Marshall Islands). Consequently, Bismarck initiated the Berlin Conference of 1885, a formal meeting of the European colonial powers, who sought to "established international guidelines for the acquisition of African territory" (see Colonisation of Africa). Its outcome, the General Act of the Berlin Conference, can be seen as the formalisation of the "Scramble for Africa" and "New Imperialism".[211]
-Wilhelminian Era (1888–1918)
+
 Wilhelm II
 "Dropping the Pilot" – British editorial cartoon depicting Bismarck's dismissal by Wilhelm II in 1890
 
 Emperor William I died in 1888. His son Frederick III, open for a more liberal political course, reigned only for ninety-nine days, as he was stricken with throat cancer and died three months after his coronation. His son Wilhelm II followed him on the throne at the age of 29. Wilhelm rejected the liberal ideas of his parents and embarked on a conservative autocratic rule. He early on decided to replace the political elite and in March 1890 he forced chancellor Bismarck into retirement.[212] Following his principle of "Personal Regiment", Wilhelm was determined to exercise maximum influence on all government affairs.[213][214][215]
 Alliances and diplomacy
-Main article: Triple Alliance (1882)
+
 
 The young Kaiser Wilhelm set out to apply his imperialist ideas of Weltpolitik (German: [ˈvɛltpoliˌtiːk], "world politics"), as he envisaged a gratuitously aggressive political course to increase the empire's influence in and control over the world. After the removal of Bismarck, foreign policies were tackled with by the Kaiser and the Federal Foreign Office under Friedrich von Holstein. Wilhelm's increasingly erratic and reckless conduct was unmistakably related to character deficits and the lack of diplomatic skills.[216][217] The foreign office's rather sketchy assessment of the current situation and its recommendations for the empire's most suitable course of action were:
 
@@ -637,33 +554,6 @@ Among the most important German writers were Thomas Mann (1875–1955), Hermann 
 After 1933, Nazi proponents of "Aryan physics," led by the Nobel Prize-winners Johannes Stark and Philipp Lenard, attacked Einstein's theory of relativity as a degenerate example of Jewish materialism in the realm of science. Many scientists and humanists emigrated; Einstein moved permanently to the U.S. but some of the others returned after 1945.[258][259]
 19th and 20th century German authors, scientists and philosophers
 
-    Hermann von Helmholtz (1821–1894)
-
-    Rudolf Virchow (1821–1902)
-
-    Robert Koch (1843–1910)
-
-    Karl Benz (1844–1929)
-
-    Georg Cantor (1845–1918)
-
-    Wilhelm Conrad Röntgen (1845–1923)
-
-    Rudolf Diesel (1858–1913)
-
-    Max Planck (1858–1947)
-
-    Fritz Haber (1868–1934)
-
-    Thomas Mann (1875–1955)
-
-    Otto Hahn (1879–1968)
-
-    Martin Heidegger (1889–1976)
-
-    Bertolt Brecht (1898–1956)
-
-    Werner Heisenberg (1901–1976)
 
 Nazi Germany, 1933–1945
 Main article: Nazi Germany
